@@ -8,11 +8,8 @@
 #include "common.h"
 #include <stdio.h>
 #include <stddef.h>
-#include <libio.h>
-#include <_G_config.h>
 #include <wchar.h>
 #include <string.h>
-#include <xlocale.h>
 #include "xmalloc.h"
 #include "node.h"
 #include "symbol_table.h"

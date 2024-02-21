@@ -6,12 +6,9 @@
 #include <gnu/stubs.h>
 #include <gnu/stubs-64.h>
 #include <stddef.h>
-#include <libio.h>
-#include <_G_config.h>
 #include <wchar.h>
 #include <stdarg.h>
 #include <string.h>
-#include <xlocale.h>
 #include "xmalloc.h"
 #include "error.h"
 /* 

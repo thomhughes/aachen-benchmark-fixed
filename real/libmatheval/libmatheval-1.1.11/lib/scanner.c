@@ -4,12 +4,9 @@
 #include <sys/cdefs.h>
 #include <gnu/stubs-64.h>
 #include <stddef.h>
-#include <libio.h>
-#include <_G_config.h>
 #include <wchar.h>
 #include <stdarg.h>
 #include <string.h>
-#include <xlocale.h>
 #include <errno.h>
 #include <asm/errno.h>
 #include <asm-generic/errno.h>
